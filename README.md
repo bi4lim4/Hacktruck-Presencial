@@ -13,7 +13,7 @@
  - **Perfil de uma playlist de músicas**
 
  ### 06
- - **Aplicando um mapa**
+ - **Fazendo uso do MapKit**
 
   ### 07
  - **Colocando em prática o uso de uma API de emoji**
